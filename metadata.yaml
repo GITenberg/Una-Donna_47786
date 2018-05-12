@@ -1,4 +1,8 @@
 _repo: Una-Donna_47786
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47786-h/images/cover.jpg
 creator:
   author:
     agent_name: Aleramo, Sibilla
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3808
     wikipedia: http://it.wikipedia.org/wiki/Sibilla_Aleramo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47786#Una-Donna
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2014-12-26'
 gutenberg_type: Text
